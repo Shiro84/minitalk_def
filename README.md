@@ -1,5 +1,7 @@
 🔄 push_swap - Ordenando Números con Eficiencia
+
 👋 Bienvenido a push_swap
+
 push_swap es un proyecto de ordenamiento en C diseñado para ordenar una lista de enteros con el mínimo número de movimientos posibles, utilizando dos pilas (stack A y stack B) y una serie de operaciones predefinidas. Este proyecto desafía tu capacidad de optimizar algoritmos y profundizar en estructuras de datos.
 
 🌟 Propósito del Proyecto
@@ -50,12 +52,10 @@ bash
 Copia el codi
 git clone https://github.com/tu_usuario/push_swap.git
 
-
 Compila el proyecto:
 bash
 Copia el codi
 make
-
 
 Ejecuta el programa:
 bash
